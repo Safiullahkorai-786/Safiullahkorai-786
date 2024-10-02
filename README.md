@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Safiullah Korai</h1>
-<h3 align="center">A passionate Flutter developer from Pakistan</h3>
+<h1 align="center">Hi 👋🏻, I'm Safiullah Korai</h1>
+<h3 align="center">A passionate Flutter developer from Pakistan 🇵🇰</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safiullahkorai-786&label=Profile%20views&color=0e75b6&style=flat" alt="safiullahkorai-786" /> </p>
 
@@ -16,6 +16,8 @@
 - 📫 How to reach me **safiullahkorai600@gmail.com**
 
 - ⚡ Fun fact **I started with one line of code, and now I'm building entire apps..**
+
+- 🌍 I have actively contributed to several communities including **MLSA**, **GDSC**, **WTM**, **Hult Prize**, **Coding Ninjas**, **GSSoC** and MANY MORE.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
