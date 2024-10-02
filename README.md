@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter to build beautiful, cross-platform apps.**
 
-- 📝 I regularly write articles on [https://medium.com/@safiullahkorai](https://medium.com/@safiullahkorai)
+- 📝 I regularly write articles on [Medium](https://medium.com/@safiullahkorai)
 
 - 💬 Ask me about **cross-platform apps with Flutter, debugging tricky code, or my favorite development tools.**
 
