@@ -53,7 +53,7 @@
 <!-- Tech Stack -->
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,python,tensorflow,pytorch,git,github,vscode,androidstudio,figma&perline=8&theme=light" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,python,tensorflow,pytorch,git,github,vscode,androidstudio,figma,powerbi,riverpod&perline=8&theme=dark" alt="skills"/>
 </p>
 
 <br>
@@ -93,14 +93,14 @@
   <img align="center"  src="https://github-readme-activity-graph.vercel.app/graph?username=Safiullahkorai-786&theme=radical&hide_border=true&area=true" alt="activity graph" width="400"/>
 </p>
 
-<br>
+<!-- <br> -->
 
 <!-- Badge-->
-<h2 align="center">🏅 GitHub Milestones</h2>
+<h3 align="center">🏅 GitHub Milestones</h3>
 <p align="center">
   <img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/Safiullahkorai-786/7f5f11e6b2cca6ba03c80d8a55c15384/raw/monthly-commits.json" alt="Commits this month"/>
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/Safiullahkorai-786" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/Safiullahkorai-786" alt="GitHub followers"/>
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/stars/Safiullahkorai-786" alt="Total Stars"/>
 </p>
@@ -108,30 +108,9 @@
 
 <br>
 
-<h2 align="center">⌛ My Coding Stats (via WakaTime)</h2>
+<h2 align="center">⌛ My Coding Stats</h2>
 <!--START_SECTION:waka-->
-
-```txt
-From: 19 February 2026 - To: 20 February 2026
-
-Total Time: 1 min
-
-Dart   1 min                 █████████████████████████   100.00 %
-```
-
 <!--END_SECTION:waka-->
-
-
-<br>
-<!-- SPOTIFY WIDGET (REAL-TIME NOW PLAYING) -->
-<h2 align="center">🎧 What I'm Vibing To Right Now</h2>
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31hurgngrbf747msjzp3ejxtx6pe&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hurgngrbf747msjzp3ejxtx6pe&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color_cover=true">
-  </a>
-</p>
-<p align="center"><em>Live from Spotify – coding soundtrack! 🎶 (Updates in real-time)</em></p
-
 
 <br>
 
@@ -146,9 +125,22 @@ Dart   1 min                 █████████████████
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Safiullahkorai-786/Safiullahkorai-786/output/github-snake.svg" width="800" />
   </picture>
 </p>
-<p align="center"><em>Watch the snake eat my daily commits! 🐍🍴</em></p>
+<p align="center"><em>Watch the snake eat my daily commits! 🐍</em></p>
+
 
 <br>
+<!-- SPOTIFY WIDGET (REAL-TIME NOW PLAYING) -->
+<h2 align="center">🎧 What I'm Vibing To Right Now</h2>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31hurgngrbf747msjzp3ejxtx6pe&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hurgngrbf747msjzp3ejxtx6pe&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color_cover=true">
+  </a>
+</p>
+<p align="center"><em>Live from Spotify – coding soundtrack! 🎶 (Updates in real-time)</em></p
+
+
+
+<br><br>
 
 <!-- Featured Projects -->
 <h2 align="center">🚀 Featured Projects</h2>
@@ -163,11 +155,12 @@ Dart   1 min                 █████████████████
 <!-- Community -->
 <h2 align="center">🤝 Communities I've Contributed To</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/GDSC%20Muet%20Khairpur-4285F4?style=flat-square&logo=google&logoColor=white" alt="GDSC"/>
-  <img src="https://img.shields.io/badge/WTM%20Hyderabad-FF4081?style=flat-square&logo=women&logoColor=white" alt="WTM"/>
-  <img src="https://img.shields.io/badge/MLSA-00A4EF?style=flat-square&logo=microsoft&logoColor=white" alt="MLSA"/>
-  <img src="https://img.shields.io/badge/ETL%20%26%20Aspire%20Leaders-00C853?style=flat-square&logoColor=white" alt="ETL"/>
-  <img src="https://img.shields.io/badge/ASME-FF6600?style=flat-square&logoColor=white" alt="ASME"/>
+  <img src="https://img.shields.io/badge/Google%20Developer%20Students%20Club%20(GDSC)%20Muet%20Khairpur-4285F4?style=flat-square&logo=google&logoColor=white" alt="GDSC"/>
+  <img src="https://img.shields.io/badge/Women%20Tech%20Makers%20(WTM)%20Hyderabad-FF4081?style=flat-square&logo=women&logoColor=white" alt="WTM"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Learn%20Students%20Ambassador%20(MLSA)-00A4EF?style=flat-square&logo=microsoft&logoColor=white" alt="MLSA"/>
+  <img src="https://img.shields.io/badge/Empowerment%20Through%20Learning%20(ETL)-FF5461?style=flat-square&logoColor=white" alt="ETL"/>
+  <img src="https://img.shields.io/badge/Aspire%20Leaders-00C853?style=flat-square&logoColor=white" alt="APL"/>
+  <img src="https://img.shields.io/badge/American%20Society%20of%20Mechanical%20Engineering%20(ASME)-FF6600?style=flat-square&logoColor=white" alt="ASME"/>
 </p>
 
 <br>
@@ -184,7 +177,7 @@ Dart   1 min                 █████████████████
 
 <br>
 <!-- Support Section -->
-<h3 align="center">☕ Fuel My Coding Adventures</h3>
+<h2 align="center">☕ Fuel My Coding Adventures</h2>
 <p align="center">
   <a href="https://www.buymeacoffee.com/safiullahkorai"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="55" width="210" alt="Buy Me a Coffee"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
