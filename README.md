@@ -1,50 +1,157 @@
-<h1 align="center">Hi 👋🏻, I'm Safiullah Korai</h1>
-<h3 align="center">A passionate Flutter developer from Pakistan 🇵🇰</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=safiullahkorai-786&label=Profile%20views&color=0e75b6&style=flat" alt="safiullahkorai-786" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safiullahkorai-786" alt="safiullahkorai-786" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/safiullahkorai" target="blank"><img src="https://img.shields.io/twitter/follow/safiullahkorai?logo=twitter&style=for-the-badge" alt="safiullahkorai" /></a> </p>
-
-- 🌱 I’m currently learning **Flutter to build beautiful, cross-platform apps.**
-
-- 📝 I regularly write articles on [Medium](https://medium.com/@safiullahkorai)
-
-- 💬 Ask me about **cross-platform apps with Flutter, debugging tricky code, or my favorite development tools.**
-
-- 📫 How to reach me **safiullahkorai600@gmail.com**
-
-- ⚡ Fun fact **I started with one line of code, and now I'm building entire apps..**
-
-- 🌍 I have actively contributed to several communities including **MLSA**, **GDSC**, **WTM**, **Hult Prize**, **Coding Ninjas**, **GSSoC** and MANY MORE.
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/safiullahkorai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="safiullahkorai" height="30" width="40" /></a>
-<a href="https://twitter.com/safiullahkorai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="safiullahkorai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/safiullah-korai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safiullah-korai" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/safiullah-korai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="safiullah-korai" height="30" width="40" /></a>
-<a href="https://kaggle.com/safiullahkorai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="safiullahkorai" height="30" width="40" /></a>
-<a href="https://fb.com/safiullah-korai.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="safiullah-korai.1" height="30" width="40" /></a>
-<a href="https://instagram.com/safiullah.korai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="safiullah.korai" height="30" width="40" /></a>
-<a href="https://medium.com/@safiullahkorai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@safiullahkorai" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/safiullahkorai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="safiullahkorai" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/safiullahkorai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="safiullahkorai" height="30" width="40" /></a>
+<!-- Animated header (change theme/color via https://capsule-render.vercel.app) -->
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!%20I'm%20Safiullah%20👋&fontSize=60&fontAlignY=40&animation=fadeIn&fontColor=white" alt="header" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- Typing Animation - Super Engaging! -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;AI+Enthusiast;Community+Builder;Event+Host;Open+Source+Lover&font=Fira+Code&color=39FF14&center=true&vCenter=true&width=600&height=70&size=28" alt="Typing SVG Animation"/>
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/safiullahkorai"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="safiullahkorai" /></a><a href="https://ko-fi.com/safiullahkorai"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="safiullahkorai" /></a></p><br><br>
+<!-- Avatar with professional border (GitHub-green inspired) -->
+<p align="center">
+  <img src="https://github.com/Safiullahkorai-786.png" width="180" height="180" style="border-radius:50%; border:4px solid #238636; box-shadow: 0 0 20px rgba(35,134,54,0.4);" alt="Safiullah Korai"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safiullahkorai-786&show_icons=true&locale=en&layout=compact" alt="safiullahkorai-786" /></p>
+<h1 align="center">Safiullah Korai</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safiullahkorai-786&show_icons=true&locale=en" alt="safiullahkorai-786" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safiullahkorai-786&" alt="safiullahkorai-786" /></p>
+
+
+
+<!-- Professional headline badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter%20Developer-%2302569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/AI%20Enthusiast-%2300BFA5?style=flat-square&logo=google-deepmind&logoColor=white" alt="AI"/>
+  <img src="https://img.shields.io/badge/Community%20Builder-%23238636?style=flat-square&logo=github&logoColor=white" alt="Community"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Learn%20Student%20Ambassador-%2300A4EF?style=flat-square&logo=microsoft&logoColor=white" alt="MLSA"/>
+</p>
+
+<!-- Bio -->
+<p align="center">
+  <em>
+    Flutter Developer & AI Enthusiast from <strong>Pano Akil, Sukkur, Pakistan 🇵🇰</strong><br>
+    Building cross-platform mobile experiences • Exploring intelligent systems •<br>
+    Passionate about growing tech communities through events, mentoring & open source.
+  </em>
+</p>
+
+<!-- Social links - clean flat style -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/safiullah-korai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/SafiullahKorai"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.instagram.com/safiullah.korai"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://youtube.com/@skstudio1855"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://medium.com/@safiullahkorai"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://www.tiktok.com/@safiullah_korai"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+  <a href="https://discord.com/users/safiullahkorai"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
+</p>
+
+
+<!-- Tech Stack -->
+<h2 align="center">🛠️ Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,python,tensorflow,pytorch,git,github,vscode,androidstudio,figma&perline=8&theme=light" alt="skills"/>
+</p>
+
+
+<!-- About Me -->
+<div >
+
+  🔭 **Currently** building **AI-integrated Flutter applications** that blend smooth UI with intelligent features  
+  🌱 **Deep diving** into mobile architecture, advanced state management (Riverpod/Bloc), and **generative AI**  
+  👥 **Community leadership**  
+     ├─ Microsoft Learn Student Ambassador (MLSA)  
+     ├─ GDSC Muet Khairpur  
+     ├─ WTM Hyderabad  
+     ├─ ETL (Empowerment Through Learning)  
+     ├─ ASME (American Society of Mechanical Engineers)  
+     └─ Aspire Leaders Program  
+  🎤 **Hosted & organized** numerous workshops, tech meetups, hackathons, and developer events  
+  📝 Regularly sharing insights & tutorials on <a href="https://medium.com/@safiullahkorai">Medium</a>  
+  💬 Feel free to ask me about: Flutter best practices • AI in mobile apps • Community building & event organizing  
+  📫 Reach out anytime: **safiullahkorai600@gmail.com**  
+  ⚡ **Fun fact**: When the code is compiling… you'll find me lost in a good book or binge-watching on Netflix 📖🎬
+
+</div>
+
+
+<!-- GitHub stats -->
+<h2 align="center">📈 GitHub Activity</h2>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safiullahkorai-786&" alt="safiullahkorai-786" /></p>
+<!-- ACTIVITY GRAPH - MOST ANIMATED PART -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Safiullahkorai-786&theme=radical&hide_border=true&area=true" alt="activity graph"/>
+</p>
+
+<!-- SPOTIFY WIDGET (REAL-TIME NOW PLAYING) -->
+<h2 align="center">🎧 What I'm Vibing To Right Now</h2>
+<p align="center">
+  <!-- Replace with YOUR generated link after authorizing at spotify-github-profile.vercel.app or similar -->
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=compact&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
+  <!-- Alternative: https://spotify-readme.vercel.app/api?user=YOUR_USER_ID -->
+  <!-- Or tthn0 version: https://spotify-readme-cards.vercel.app/api/spotify?user=YOUR_ID -->
+</p>
+<p align="center"><em>Live from Spotify – coding soundtrack! 🎶 (Updates in real-time)</em></p
+
+<!-- SNAKE GRAPH (MOST FUN ONE) -->
+<h2 align="center">🐍 Snake Eating My Contributions</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Safiullahkorai-786/Safiullahkorai-786/output/github-snake-dark.svg" alt="dark snake"/>
+  <br>
+  <img src="https://raw.githubusercontent.com/Safiullahkorai-786/Safiullahkorai-786/output/github-snake.svg" alt="light snake"/>
+</p>
+<p align="center"><em>Watch the snake eat my daily commits! 🐍🍴</em></p>
+
+
+
+<!-- Featured Projects -->
+<h2 align="center">🚀 Featured Projects</h2>
+<p align="center">
+  <a href="https://github.com/Safiullahkorai-786/Open-Source-Contribution-Workshop"><img src="https://img.shields.io/badge/Open%20Source%20Workshop-3%20Stars-FF00FF?style=for-the-badge" alt="workshop"/></a>
+  <a href="https://github.com/Safiullahkorai-786/Quiz2ME-App"><img src="https://img.shields.io/badge/Quiz2ME%20App-Java-00FFFF?style=for-the-badge" alt="quiz"/></a>
+</p>
+<p align="center"><em>Many exciting Flutter + AI projects are in private repos for clients. More open-source Flutter magic coming soon! ✨</em></p>
+
+<!-- Community -->
+<h2 align="center">🤝 Communities I've Contributed To</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/GDSC%20Muet%20Khairpur-4285F4?style=flat-square&logo=google&logoColor=white" alt="GDSC"/>
+  <img src="https://img.shields.io/badge/WTM%20Hyderabad-FF4081?style=flat-square&logo=women&logoColor=white" alt="WTM"/>
+  <img src="https://img.shields.io/badge/MLSA-00A4EF?style=flat-square&logo=microsoft&logoColor=white" alt="MLSA"/>
+  <img src="https://img.shields.io/badge/ETL%20%26%20Aspire%20Leaders-00C853?style=flat-square&logoColor=white" alt="ETL"/>
+  <img src="https://img.shields.io/badge/ASME-FF6600?style=flat-square&logoColor=white" alt="ASME"/>
+</p>
+
+<!-- Support Section -->
+<h3 align="center">☕ Fuel My Coding Adventures</h3>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/safiullahkorai"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="55" width="210" alt="Buy Me a Coffee"/></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ko-fi.com/safiullahkorai"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="55" width="210" alt="Ko-fi"/></a>
+</p>
+
+<br><br>
+
+
+<!-- Fun Section -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="220" alt="coding"/>
+  <br>
+    <em><strong>"Code. Create. Connect. Repeat. Let's make something awesome together! 🚀"</strong></em>
+</p>
+
+<!-- Visitors -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Safiullahkorai-786&label=Profile%20views&color=238636&style=flat-square" alt="profile views"/>
+</p>
+
+<!-- Thank you -->
+<!-- Final Thank You -->
+<p align="center">
+  <strong>Thanks for visiting my corner of the internet! ❤️</strong><br>
+  <em>Hit me up - I reply fast and love chatting tech, Flutter, AI, or just random memes!</em>
+</p>
+
