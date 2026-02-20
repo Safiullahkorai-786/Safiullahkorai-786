@@ -22,7 +22,7 @@ jobs:
           SHOW_PROJECTS: true
           SHOW_DAYS_OF_WEEK: true
           SHOW_LANGUAGE_PER_REPO: true
-          TIME_RANGE: last_7_days          # or last_30_days / all_time
+          TIME_RANGE: all_time        # last_7_days or last_30_days / all_time
           LANG_COUNT: 8
           BLOCKS: ▁▂▃▄▅▆▇█                # nice progress bars
           COMMIT_MESSAGE: Update WakaTime stats
