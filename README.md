@@ -80,11 +80,27 @@
 
 <!-- GitHub stats -->
 <h2 align="center">📈 GitHub Activity</h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safiullahkorai-786&" alt="safiullahkorai-786" /></p>
-<!-- ACTIVITY GRAPH - MOST ANIMATED PART -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Safiullahkorai-786&theme=radical&hide_border=true&area=true" alt="activity graph"/>
+  
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safiullahkorai-786&" alt="safiullahkorai-786" height="170"/>
+<!-- ACTIVITY GRAPH - MOST ANIMATED PART -->
+&nbsp;&nbsp;
+ 
+
+  <img align="center"  src="https://github-readme-activity-graph.vercel.app/graph?username=Safiullahkorai-786&theme=radical&hide_border=true&area=true" alt="activity graph" width="490"/>
 </p>
+
+<!-- Badge-->
+<h2 align="center">🏅 GitHub Milestones</h2>
+<p align="center">
+  <img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/Safiullahkorai-786/7f5f11e6b2cca6ba03c80d8a55c15384/raw/monthly-commits.json" alt="Commits this month"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Safiullahkorai-786" alt="Followers"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/Safiullahkorai-786" alt="Total Stars"/>
+</p>
+<p align="center"><em>Live & updating automatically – more milestones unlocked soon! 🚀</em></p>
 
 <!-- SPOTIFY WIDGET (REAL-TIME NOW PLAYING) -->
 <h2 align="center">🎧 What I'm Vibing To Right Now</h2>
@@ -96,7 +112,7 @@
 <p align="center"><em>Live from Spotify – coding soundtrack! 🎶 (Updates in real-time)</em></p
 
 <!-- SNAKE GRAPH (MOST FUN ONE) -->
-<<!-- Snake eating contributions - auto dark/light -->
+<!-- Snake eating contributions - auto dark/light -->
 <h2 align="center">🐍 My Contributions Snake</h2>
 <p align="center">
   <picture>
@@ -126,6 +142,14 @@
   <img src="https://img.shields.io/badge/ETL%20%26%20Aspire%20Leaders-00C853?style=flat-square&logoColor=white" alt="ETL"/>
   <img src="https://img.shields.io/badge/ASME-FF6600?style=flat-square&logoColor=white" alt="ASME"/>
 </p>
+
+<!-- MEDIUM LATEST POSTS -->
+<h2 align="center">📰 Recent Medium Articles</h2>
+<p align="center">
+  <a href="https://medium.com/@safiullahkorai/your-latest-article-slug"><img src="https://img.shields.io/badge/Latest%20Post-Read%20Now-blue?style=for-the-badge&logo=medium" alt="latest"/></a>
+  <a href="https://medium.com/@safiullahkorai/another-article"><img src="https://img.shields.io/badge/Article%202-Read%20Now-green?style=for-the-badge&logo=medium" alt="article2"/></a>
+</p>
+<p align="center"><em>More on <a href="https://medium.com/@safiullahkorai">Medium.com/@safiullahkorai</a> – check for fresh Flutter/AI tips!</em></p>
 
 <!-- Support Section -->
 <h3 align="center">☕ Fuel My Coding Adventures</h3>
