@@ -1,0 +1,33 @@
+name: Update Monthly Commits Badge
+
+on:
+  schedule:
+    - cron: '0 0 1 * *'  # Runs 1st of every month at midnight UTC
+  workflow_dispatch:      # Allows manual run
+  push:                   # Optional: Update on every push (for near-real-time)
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Calculate commits this month
+        id: commits
+        run: |
+          MONTH_START=$(date -d "$(date +%Y-%m-01)" +%s)
+          NOW=$(date +%s)
+          COMMIT_COUNT=$(git log --since=$MONTH_START --until=$NOW --author="$GITHUB_ACTOR" --pretty=oneline | wc -l)
+          echo "count=$COMMIT_COUNT" >> $GITHUB_OUTPUT
+
+      - name: Create/Update Badge JSON
+        uses: schneegans/dynamic-badges-action@v1.7.0
+        with:
+          auth: ${{ secrets.GIST_TOKEN }}
+          gistID: 7f5f11e6b2cca6ba03c80d8a55c15384         # e.g. a1b2c3d4e5f6...
+          filename: monthly-commits.json
+          label: Commits this month
+          message: ${{ steps.commits.outputs.count }}
+          color: brightgreen
+          namedLogo: github
+          logoColor: white
