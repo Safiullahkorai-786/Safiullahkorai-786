@@ -97,11 +97,14 @@
 <p align="center"><em>Live from Spotify – coding soundtrack! 🎶 (Updates in real-time)</em></p
 
 <!-- SNAKE GRAPH (MOST FUN ONE) -->
-<h2 align="center">🐍 Snake Eating My Contributions</h2>
+<<!-- Snake eating contributions - auto dark/light -->
+<h2 align="center">🐍 My Contributions Snake</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Safiullahkorai-786/Safiullahkorai-786/output/github-snake-dark.svg" alt="dark snake"/>
-  <br>
-  <img src="https://raw.githubusercontent.com/Safiullahkorai-786/Safiullahkorai-786/output/github-snake.svg" alt="light snake"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Safiullahkorai-786/Safiullahkorai-786/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Safiullahkorai-786/Safiullahkorai-786/output/github-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Safiullahkorai-786/Safiullahkorai-786/output/github-snake.svg" width="800" />
+  </picture>
 </p>
 <p align="center"><em>Watch the snake eat my daily commits! 🐍🍴</em></p>
 
