@@ -89,10 +89,9 @@
 <!-- SPOTIFY WIDGET (REAL-TIME NOW PLAYING) -->
 <h2 align="center">🎧 What I'm Vibing To Right Now</h2>
 <p align="center">
-  <!-- Replace with YOUR generated link after authorizing at spotify-github-profile.vercel.app or similar -->
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=compact&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
-  <!-- Alternative: https://spotify-readme.vercel.app/api?user=YOUR_USER_ID -->
-  <!-- Or tthn0 version: https://spotify-readme-cards.vercel.app/api/spotify?user=YOUR_ID -->
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31hurgngrbf747msjzp3ejxtx6pe&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hurgngrbf747msjzp3ejxtx6pe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color_cover=true">
+  </a>
 </p>
 <p align="center"><em>Live from Spotify – coding soundtrack! 🎶 (Updates in real-time)</em></p
 
