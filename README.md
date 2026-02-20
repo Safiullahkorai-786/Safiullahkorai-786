@@ -7,12 +7,12 @@
 
 <!-- Typing Animation - Super Engaging! -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;AI+Enthusiast;Community+Builder;Event+Host;Open+Source+Lover&font=Fira+Code&color=39FF14&center=true&vCenter=true&width=600&height=70&size=28" alt="Typing SVG Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Also+Known+As+Shahzaib;Flutter+Developer;Software+Engineer;AI+Enthusiast;Community+Builder;Event+Host;Open+Source+Lover&font=Fira+Code&color=39FF14&center=true&vCenter=true&width=600&height=70&size=28" alt="Typing SVG Animation"/>
 </p>
 
 <!-- Avatar with professional border (GitHub-green inspired) -->
 <p align="center">
-  <img src="https://github.com/Safiullahkorai-786.png" width="180" height="180" style="border-radius:50%; border:4px solid #238636; box-shadow: 0 0 20px rgba(35,134,54,0.4);" alt="Safiullah Korai"/>
+  <img src="https://github.com/Safiullahkorai-786/Safiullahkorai-786/blob/main/Safiullah%20Korai%20(4).png?raw=true" width="280" height="280" style="border-radius:50%; border:4px solid #238636; box-shadow: 0 0 20px rgba(35,134,54,0.4);" alt="Safiullah Korai"/>
 </p>
 
 <h1 align="center">Safiullah Korai</h1>
@@ -56,9 +56,10 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,python,tensorflow,pytorch,git,github,vscode,androidstudio,figma&perline=8&theme=light" alt="skills"/>
 </p>
 
-
+<br>
 <!-- About Me -->
 <div >
+<h2 align="center">About Me</h2>
 
   🔭 **Currently** building **AI-integrated Flutter applications** that blend smooth UI with intelligent features  
   🌱 **Deep diving** into mobile architecture, advanced state management (Riverpod/Bloc), and **generative AI**  
@@ -77,7 +78,7 @@
 
 </div>
 
-
+<br>
 
 
 <!-- GitHub stats -->
@@ -88,10 +89,11 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safiullahkorai-786&" alt="safiullahkorai-786" height="140"/>
 <!-- ACTIVITY GRAPH - MOST ANIMATED PART -->
 &nbsp;
- 
 
   <img align="center"  src="https://github-readme-activity-graph.vercel.app/graph?username=Safiullahkorai-786&theme=radical&hide_border=true&area=true" alt="activity graph" width="400"/>
 </p>
+
+<br>
 
 <!-- Badge-->
 <h2 align="center">🏅 GitHub Milestones</h2>
@@ -104,30 +106,29 @@
 </p>
 <p align="center"><em>Live & updating automatically – more milestones unlocked soon! 🚀</em></p>
 
+<br>
+
 <h2 align="center">⌛ My Coding Stats (via WakaTime)</h2>
 <!--START_SECTION:waka-->
-
-```txt
-From: 12 February 2026 - To: 19 February 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
+
+<br>
 <!-- SPOTIFY WIDGET (REAL-TIME NOW PLAYING) -->
 <h2 align="center">🎧 What I'm Vibing To Right Now</h2>
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31hurgngrbf747msjzp3ejxtx6pe&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hurgngrbf747msjzp3ejxtx6pe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color_cover=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hurgngrbf747msjzp3ejxtx6pe&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color_cover=true">
   </a>
 </p>
 <p align="center"><em>Live from Spotify – coding soundtrack! 🎶 (Updates in real-time)</em></p
 
+
+<br>
+
 <!-- SNAKE GRAPH (MOST FUN ONE) -->
 <!-- Snake eating contributions - auto dark/light -->
+
 <h2 align="center">🐍 My Contributions Snake</h2>
 <p align="center">
   <picture>
@@ -138,7 +139,7 @@ No activity tracked
 </p>
 <p align="center"><em>Watch the snake eat my daily commits! 🐍🍴</em></p>
 
-
+<br>
 
 <!-- Featured Projects -->
 <h2 align="center">🚀 Featured Projects</h2>
@@ -147,6 +148,8 @@ No activity tracked
   <a href="https://github.com/Safiullahkorai-786/Quiz2ME-App"><img src="https://img.shields.io/badge/Quiz2ME%20App-Java-00FFFF?style=for-the-badge" alt="quiz"/></a>
 </p>
 <p align="center"><em>Many exciting Flutter + AI projects are in private repos for clients. More open-source Flutter magic coming soon! ✨</em></p>
+
+<br>
 
 <!-- Community -->
 <h2 align="center">🤝 Communities I've Contributed To</h2>
@@ -158,6 +161,10 @@ No activity tracked
   <img src="https://img.shields.io/badge/ASME-FF6600?style=flat-square&logoColor=white" alt="ASME"/>
 </p>
 
+<br>
+
+
+
 <!-- MEDIUM LATEST POSTS -->
 <h2 align="center">📰 Recent Medium Articles</h2>
 <p align="center">
@@ -166,6 +173,7 @@ No activity tracked
 </p>
 <p align="center"><em>More on <a href="https://medium.com/@safiullahkorai">Medium.com/@safiullahkorai</a> – check for fresh Flutter/AI tips!</em></p>
 
+<br>
 <!-- Support Section -->
 <h3 align="center">☕ Fuel My Coding Adventures</h3>
 <p align="center">
@@ -174,7 +182,7 @@ No activity tracked
   <a href="https://ko-fi.com/safiullahkorai"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="55" width="210" alt="Ko-fi"/></a>
 </p>
 
-<br><br>
+<br>
 
 
 <!-- Fun Section -->
