@@ -110,6 +110,15 @@
 
 <h2 align="center">⌛ My Coding Stats (via WakaTime)</h2>
 <!--START_SECTION:waka-->
+
+```txt
+From: 19 February 2026 - To: 20 February 2026
+
+Total Time: 1 min
+
+Dart   1 min                 █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 
