@@ -1,0 +1,28 @@
+name: WakaTime Stats
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: true
+          SHOW_LINES_OF_CODE: true
+          SHOW_UPDATED_DATE: true
+          SHOW_TIME: true
+          SHOW_OS: true
+          SHOW_EDITORS: true
+          SHOW_PROJECTS: true
+          SHOW_DAYS_OF_WEEK: true
+          SHOW_LANGUAGE_PER_REPO: true
+          TIME_RANGE: last_7_days          # or last_30_days / all_time
+          LANG_COUNT: 8
+          BLOCKS: ▁▂▃▄▅▆▇█                # nice progress bars
+          COMMIT_MESSAGE: Update WakaTime stats
