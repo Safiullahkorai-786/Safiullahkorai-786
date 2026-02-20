@@ -78,17 +78,19 @@
 </div>
 
 
+
+
 <!-- GitHub stats -->
 <h2 align="center">📈 GitHub Activity</h2>
 <p align="center">
   
   
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safiullahkorai-786&" alt="safiullahkorai-786" height="170"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safiullahkorai-786&" alt="safiullahkorai-786" height="140"/>
 <!-- ACTIVITY GRAPH - MOST ANIMATED PART -->
-&nbsp;&nbsp;
+&nbsp;
  
 
-  <img align="center"  src="https://github-readme-activity-graph.vercel.app/graph?username=Safiullahkorai-786&theme=radical&hide_border=true&area=true" alt="activity graph" width="490"/>
+  <img align="center"  src="https://github-readme-activity-graph.vercel.app/graph?username=Safiullahkorai-786&theme=radical&hide_border=true&area=true" alt="activity graph" width="400"/>
 </p>
 
 <!-- Badge-->
@@ -101,6 +103,10 @@
   <img src="https://img.shields.io/github/stars/Safiullahkorai-786" alt="Total Stars"/>
 </p>
 <p align="center"><em>Live & updating automatically – more milestones unlocked soon! 🚀</em></p>
+
+<h2 align="center">⌛ My Coding Stats (via WakaTime)</h2>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- SPOTIFY WIDGET (REAL-TIME NOW PLAYING) -->
 <h2 align="center">🎧 What I'm Vibing To Right Now</h2>
