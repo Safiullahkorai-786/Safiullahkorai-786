@@ -49,6 +49,35 @@
   <a href="https://discord.com/users/safiullahkorai"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
 </p>
 
+<!-- 🌐 Official Profiles -->
+<h2 align="center">🌐 Official Profiles</h2>
+
+<p align="center">
+  <a href="https://linktr.ee/safiullahkorai">
+    <img src="https://img.shields.io/badge/Linktree-All%20Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
+
+  <a href="https://en.everybodywiki.com/Safiullah_Korai">
+    <img src="https://img.shields.io/badge/EverybodyWiki-Biography-2E8B57?style=for-the-badge&logo=wikipedia&logoColor=white" />
+  </a>
+
+  <a href="https://orcid.org/0009-0008-2198-4674">
+    <img src="https://img.shields.io/badge/ORCID-Research_ID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+  </a>
+
+  <a href="https://www.crunchbase.com/person/safiullah-korai">
+    <img src="https://img.shields.io/badge/Crunchbase-Profile-0288D1?style=for-the-badge&logo=crunchbase&logoColor=white" />
+  </a>
+
+  <a href="https://about.me/safiullahkorai">
+    <img src="https://img.shields.io/badge/About.me-Personal%20Page-000000?style=for-the-badge&logo=about-dot-me&logoColor=white" />
+  </a>
+
+  <a href="https://youtube.com/@safiullah-korai">
+    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
 
 <!-- Tech Stack -->
 <h2 align="center">🛠️ Tech Stack</h2>
