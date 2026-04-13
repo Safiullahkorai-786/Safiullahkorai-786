@@ -63,6 +63,10 @@
     <img src="https://img.shields.io/badge/Linktree-All%20Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
 
+  <a href="https://hackernoon.com/u/safiullahkorai">
+    <img src="https://img.shields.io/badge/HackerNoon-Writing-00FF9F?style=for-the-badge&logo=hackernoon&logoColor=black" />
+  </a>  
+
   <a href="https://en.everybodywiki.com/Safiullah_Korai">
     <img src="https://img.shields.io/badge/EverybodyWiki-Biography-2E8B57?style=for-the-badge&logo=wikipedia&logoColor=white" />
   </a>
