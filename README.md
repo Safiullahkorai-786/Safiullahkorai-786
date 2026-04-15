@@ -32,63 +32,78 @@
 <!-- Bio -->
 <p align="center">
   <em>
-    Flutter Developer & AI Enthusiast from <strong>Pano Akil, Sukkur, Pakistan 🇵🇰</strong><br>
-    Building cross-platform mobile experiences • Exploring intelligent systems •<br>
-    Passionate about growing tech communities through events, mentoring & open source.
-  </em>
-</p>
+ Software Engineer & Flutter Developer from Pano Aqil, Sukkur, Pakistan 🇵🇰
 
-<!-- Social links - clean flat style -->
-<p align="center">
-<a href="https://www.linkedin.com/in/safiullah-korai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://x.com/SafiullahKorai"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://www.facebook.com/safiullahkorai.official"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
-<a href="https://www.instagram.com/safiullah.korai"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://youtube.com/@skstudio1855"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
-<a href="https://medium.com/@safiullahkorai"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
-<a href="https://safiullahkorai.hashnode.com"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
-<a href="https://dev.to/safiullahkorai"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
-<a href="https://bsky.app/profile/safiullahkorai.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky"/></a>
-<a href="https://safiullahkorai.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white" alt="Substack"/></a>
-<a href="https://soundcloud.com/safiullah-korai"><img src="https://img.shields.io/badge/SoundCloud-FF5500?style=flat-square&logo=soundcloud&logoColor=white" alt="SoundCloud"/></a>
-<a href="https://www.tiktok.com/@safiullah_korai"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"/></a>
-<a href="https://discord.com/users/safiullahkorai"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
-</p>
+Building scalable cross-platform mobile apps with Flutter • Exploring AI integration in mobile experiences • Technical Writer sharing practical insights • Passionate about growing tech communities through mentoring, events & open source.
+  </em>
+</p><!-- Social links - clean flat style -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/safiullah-korai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/SafiullahKorai"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://www.facebook.com/safiullahkorai.official"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/safiullah.korai"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://youtube.com/@skstudio1855"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  
+  <!-- New Professional Links -->
+  <a href="https://stackoverflow.com/users/18379519/safiullah-korai"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
+  <a href="https://scratchpad.fandom.com/wiki/Safiullah_Korai"><img src="https://img.shields.io/badge/Scratchpad-Fandom-00A8E8?style=flat-square&logo=wikipedia&logoColor=white" alt="Scratchpad"/></a>
+  <a href="https://g.dev/safiullah-korai"><img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Developer"/></a>
+  
+  <a href="https://medium.com/@safiullahkorai"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://safiullahkorai.hashnode.com"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
+  <a href="https://dev.to/safiullahkorai"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
+  <a href="https://bsky.app/profile/safiullahkorai.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky"/></a>
+  <a href="https://safiullahkorai.substack.com"><img src="https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white" alt="Substack"/></a>
+  <a href="https://soundcloud.com/safiullah-korai"><img src="https://img.shields.io/badge/SoundCloud-FF5500?style=flat-square&logo=soundcloud&logoColor=white" alt="SoundCloud"/></a>
+  <a href="https://www.tiktok.com/@safiullah_korai"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"/></a>
+  <a href="https://discord.com/users/safiullahkorai"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
+</div>
 
 <!-- 🌐 Official Profiles -->
 <h2 align="center">🌐 Official Profiles</h2>
 
 <p align="center">
-  <a href="https://linktr.ee/safiullahkorai">
+<a href="https://linktr.ee/safiullahkorai">
     <img src="https://img.shields.io/badge/Linktree-All%20Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
-  </a>
+</a>
 
-  <a href="https://hackernoon.com/u/safiullahkorai">
+  <!-- New Professional Badges -->
+<a href="https://stackoverflow.com/users/18379519/safiullah-korai">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+</a>
+
+<a href="https://scratchpad.fandom.com/wiki/Safiullah_Korai">
+    <img src="https://img.shields.io/badge/Scratchpad-Fandom-00A8E8?style=for-the-badge&logo=wikipedia&logoColor=white" />
+</a>
+
+<a href="https://g.dev/safiullah-korai">
+    <img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</a>
+
+<a href="https://hackernoon.com/u/safiullahkorai">
     <img src="https://img.shields.io/badge/HackerNoon-Writing-00FF9F?style=for-the-badge&logo=hackernoon&logoColor=black" />
-  </a>  
+</a>  
 
-  <a href="https://en.everybodywiki.com/Safiullah_Korai">
+<a href="https://en.everybodywiki.com/Safiullah_Korai">
     <img src="https://img.shields.io/badge/EverybodyWiki-Biography-2E8B57?style=for-the-badge&logo=wikipedia&logoColor=white" />
-  </a>
+</a>
 
-  <a href="https://orcid.org/0009-0008-2198-4674">
+<a href="https://orcid.org/0009-0008-2198-4674">
     <img src="https://img.shields.io/badge/ORCID-Research_ID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
-  </a>
+</a>
 
-  <a href="https://www.crunchbase.com/person/safiullah-korai">
+<a href="https://www.crunchbase.com/person/safiullah-korai">
     <img src="https://img.shields.io/badge/Crunchbase-Profile-0288D1?style=for-the-badge&logo=crunchbase&logoColor=white" />
-  </a>
+</a>
 
-  <a href="https://about.me/safiullahkorai">
+<a href="https://about.me/safiullahkorai">
     <img src="https://img.shields.io/badge/About.me-Personal%20Page-000000?style=for-the-badge&logo=about-dot-me&logoColor=white" />
-  </a>
+</a>
 
-  <a href="https://youtube.com/@safiullah-korai">
+<a href="https://youtube.com/@safiullah-korai">
     <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+</a>
 </p>
-
-
 <!-- Tech Stack -->
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
@@ -98,25 +113,33 @@
 <br>
 <!-- About Me -->
 <div >
-<h2 align="center">About Me</h2>
+  <h2 align="center">About Me</h2>
 
-  🔭 **Currently** building **AI-integrated Flutter applications** that blend smooth UI with intelligent features  
-  🌱 **Deep diving** into mobile architecture, advanced state management (Riverpod/Bloc), and **generative AI**  
-  👥 **Community leadership**  
+  🔭 **Currently** building **AI-integrated Flutter applications** that combine beautiful UI with intelligent features<br>
+  🌱 **Deep diving** into clean mobile architecture, advanced state management (Riverpod, Bloc), and generative AI<br>
+  👨‍💻 **Software Engineer** focused on production-grade Flutter development<br><br>
+
+  👥 **Community Leadership & Contributions**  
      ├─ Microsoft Learn Student Ambassador (MLSA)  
-     ├─ GDSC Muet Khairpur  
-     ├─ WTM Hyderabad  
+     ├─ Google Developer Student Clubs (GDSC) MUET Khairpur  
+     ├─ Women Techmakers (WTM) Hyderabad  
+     ├─ GirlScript Summer of Code (GSSoC)  
      ├─ ETL (Empowerment Through Learning)  
-     ├─ ASME (American Society of Mechanical Engineers)  
-     └─ Aspire Leaders Program  
-  🎤 **Hosted & organized** numerous workshops, tech meetups, hackathons, and developer events  
-  📝 Regularly sharing insights & tutorials on <a href="https://medium.com/@safiullahkorai">Medium</a>  
-  💬 Feel free to ask me about: Flutter best practices • AI in mobile apps • Community building & event organizing  
-  📫 Reach out anytime: **safiullahkorai600@gmail.com**  
+     └─ ASME & Aspire Leaders Program<br><br>
+
+  🎤 **Hosted & organized** numerous workshops, tech meetups, hackathons, and developer events<br>
+  📝 **Technical Writer** — Regularly sharing real-world insights and tutorials on  
+     <a href="https://medium.com/@safiullahkorai">Medium</a>, 
+     <a href="https://hackernoon.com/u/safiullahkorai">HackerNoon</a>, 
+     <a href="https://safiullahkorai.hashnode.com">Hashnode</a>, 
+     <a href="https://dev.to/safiullahkorai">Dev.to</a> & 
+     <a href="https://scratchpad.fandom.com/wiki/Safiullah_Korai">Scratchpad</a><br><br>
+
+  💬 Feel free to ask me about: **Flutter best practices** • **AI in mobile apps** • **State Management** • **Community building**<br>
+  📫 Reach out anytime: **safiullahkorai600@gmail.com**<br>
   ⚡ **Fun fact**: When the code is compiling… you'll find me lost in a good book or binge-watching on Netflix 📖🎬
 
 </div>
-
 <br>
 
 
