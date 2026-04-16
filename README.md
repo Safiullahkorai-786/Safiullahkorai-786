@@ -42,13 +42,7 @@ Building scalable cross-platform mobile apps with Flutter • Exploring AI integ
   <a href="https://x.com/SafiullahKorai"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://www.facebook.com/safiullahkorai.official"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://www.instagram.com/safiullah.korai"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://youtube.com/@skstudio1855"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  
-  <!-- New Professional Links -->
-  <a href="https://stackoverflow.com/users/18379519/safiullah-korai"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
-  <a href="https://scratchpad.fandom.com/wiki/Safiullah_Korai"><img src="https://img.shields.io/badge/Scratchpad-Fandom-00A8E8?style=flat-square&logo=wikipedia&logoColor=white" alt="Scratchpad"/></a>
-  <a href="https://g.dev/safiullah-korai"><img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Developer"/></a>
-  
+  <a href="https://youtube.com/@skstudio1855"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>  
   <a href="https://medium.com/@safiullahkorai"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://safiullahkorai.hashnode.com"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
   <a href="https://dev.to/safiullahkorai"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
