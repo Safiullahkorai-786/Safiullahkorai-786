@@ -7,7 +7,7 @@
 
 <!-- Typing Animation - Super Engaging! -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Also+Known+As+Shahzaib;Flutter+Developer;Software+Engineer;AI+Enthusiast;Community+Builder;Event+Host;Open+Source+Lover&font=Fira+Code&color=39FF14&center=true&vCenter=true&width=600&height=70&size=28" alt="Typing SVG Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Also+Known+As+Shahzaib;Flutter+Developer;Software+Engineer;Technical+Writer;AI+Enthusiast;Community+Builder;Event+Host;Open+Source+Lover&font=Fira+Code&color=39FF14&center=true&vCenter=true&width=600&height=70&size=28" alt="Typing SVG Animation"/>
 </p>
 
 <!-- Avatar with professional border (GitHub-green inspired) -->
