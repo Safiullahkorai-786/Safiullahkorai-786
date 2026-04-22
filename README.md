@@ -51,6 +51,9 @@ Building scalable cross-platform mobile apps with Flutter • Exploring AI integ
   <a href="https://soundcloud.com/safiullah-korai"><img src="https://img.shields.io/badge/SoundCloud-FF5500?style=flat-square&logo=soundcloud&logoColor=white" alt="SoundCloud"/></a>
   <a href="https://www.tiktok.com/@safiullah_korai"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"/></a>
   <a href="https://discord.com/users/safiullahkorai"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/></a>
+  <a href="https://www.kaggle.com/safiullahkorai">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</a>
 </div>
 
 <!-- 🌐 Official Profiles -->
