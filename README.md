@@ -171,15 +171,15 @@ Building scalable cross-platform mobile apps with Flutter • Exploring AI integ
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 February 2026 - To: 27 April 2026
+From: 19 February 2026 - To: 28 April 2026
 
-Total Time: 3 hrs 58 mins
+Total Time: 4 hrs 12 mins
 
-Dart              3 hrs 48 mins         ███████████████████████▇▁   95.50 %
-Kotlin            4 mins                ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.90 %
-Git               3 mins                ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.47 %
-YAML              1 min                 ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.70 %
-Java Properties   0 secs                ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.38 %
+Dart              3 hrs 48 mins         ██████████████████████▅▁▁   90.19 %
+YAML              15 mins               █▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   06.23 %
+Kotlin            4 mins                ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.79 %
+Git               3 mins                ▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.39 %
+Java Properties   0 secs                ▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.36 %
 Other             0 secs                ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   00.04 %
 ```
 
