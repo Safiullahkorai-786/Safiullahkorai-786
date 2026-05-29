@@ -171,7 +171,7 @@ Building scalable cross-platform mobile apps with Flutter • Exploring AI integ
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 February 2026 - To: 27 May 2026
+From: 19 February 2026 - To: 28 May 2026
 
 Total Time: 5 hrs 23 mins
 
